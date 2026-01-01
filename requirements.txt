@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+# Core ML Framework (CUDA 12.1 version)
+torch==2.5.1+cu121
+
+# Dependencies 
+numpy==2.2.6
+gymnasium==1.2.2
+pybullet==3.2.7
+scipy==1.15.3
+clearml==2.0.2
+
+# Required for visualization in test_drone.py
+matplotlib
+
+# Drone Environment (Installed from source)
+gym-pybullet-drones @ git+https://github.com/utiasDSL/gym-pybullet-drones.git
