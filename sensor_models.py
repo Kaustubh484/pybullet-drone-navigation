@@ -17,6 +17,7 @@ class SensorFusionEncoder(nn.Module):
         )
         fusion_dim = 64
 
+
         self.img_channels = 0
         if use_camera: self.img_channels +=  3
         if use_depth: self.img_channels +=  1

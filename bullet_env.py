@@ -444,6 +444,7 @@ class BulletNavigationEnv(gym.Env):
 
             # print(f"Shape: {obs.get('image').shape}")
 
+        
         if self.use_lidar:
             ray_from, ray_to = [], []
             length = 5.0
