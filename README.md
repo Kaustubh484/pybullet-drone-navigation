@@ -320,10 +320,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Gym-PyBullet-Drones** ([GitHub](https://github.com/utiasDSL/gym-pybullet-drones)) - Excellent simulation framework
 - **University of Maryland** - Department of Computer Science for computational resources
 - **Research Papers:**
- [1] Haarnoja, T., Zhou, A., Abbeel, P., & Levine, S. (2018). Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor. International Conference on Machine Learning (ICML), 1861-1870.
-[2] Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D., & Wierstra, D. (2016). Continuous control with deep reinforcement learning. International Conference on Learning Representations (ICLR).
-[3] Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization Algorithms. arXiv preprint arXiv:1707.06347.
-[4] Panerati, J., Zheng, H., Zhou, S., Xu, J., Prorok, A., & Schoellig, A. P. (2021). Learning to Fly—A Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 7512-7519.
+ [1] Haarnoja, T., Zhou, A., Abbeel, P., & Levine, S. (2018). Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor. *International Conference on Machine Learning (ICML)*, 1861-1870. [Paper](https://arxiv.org/abs/1801.01290)
+
+[2] Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D., & Wierstra, D. (2016). Continuous control with deep reinforcement learning. *International Conference on Learning Representations (ICLR)*. [Paper](https://arxiv.org/abs/1509.02971)
+
+[3] Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). Proximal Policy Optimization Algorithms. *arXiv preprint arXiv:1707.06347*. [Paper](https://arxiv.org/abs/1707.06347)
+
+[4] Panerati, J., Zheng, H., Zhou, S., Xu, J., Prorok, A., & Schoellig, A. P. (2021). Learning to Fly—A Gym Environment with PyBullet Physics for Reinforcement Learning of Multi-agent Quadcopter Control. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 7512-7519. [Paper](https://arxiv.org/abs/2103.02142)
 
 ## Authors
 - **Kaustubh Shah** - [kshah115@umd.edu](mailto:kshah115@umd.edu)
